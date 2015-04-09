@@ -1,0 +1,8 @@
+{
+  "name": "data-mining",
+  "version": "0.0.1",
+  "devDependencies": {
+    "request": "~2.55.0",
+    "cheerio": "~0.19.0"
+  }
+}
