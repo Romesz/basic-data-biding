@@ -1,5 +1,5 @@
-# basic-data-biding
-basic data biding with request and cheerio in node.js
+# basic-data-mining
+basic data mining with request and cheerio in node.js
 
 * npm install
 * node app.js
